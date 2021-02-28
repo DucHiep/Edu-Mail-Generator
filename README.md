@@ -29,3 +29,14 @@ Follow the instructions to get started with generating your own edu mail
 - It saves the time by doing the work for you (It usually takes 10 to 15 minutes to fill a form manually)
 - No limit on creating edu mails. You can create as much as you need (preferred to use in limits)
 - Many benefits of having an edu mail like `Spotify 50% off` `Apple music 50% off` `Discount on Adobe CC` `Free amazon prime` and many more
+## **Hướng dẫn** sử dụng 
+- Cài môi trường python
+- pip install numpy
+- pip install matplotlib
+- pip install scipy
+- pip install sklearn
+- pip install keras
+- duong_dan_toi_python.exe -m pip install --upgrade pip or python -m pip install -U pip
+- vào thư mục chưa edu-mail... gõ cmd
+- python setup.py
+- python bot.py
